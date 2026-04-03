@@ -251,12 +251,7 @@ doom-scrolling-analysis/
 
 ---
 
-## 📥 How I Ran the Analysis
 
-1. Cloned my repo from GitHub
-2. Created a Python virtual environment
-3. Installed dependencies
-4. Ran the ETL pipeline (`python src/clean_data.py`)
 
 This pipeline:
 * Cleans the raw CSV data from my samsung A55 Collected using https://stayfreeapps.com/
@@ -266,7 +261,7 @@ This pipeline:
 
 ---
 
-## 🔍 What My Data Looks Like
+##  What My Data Looks Like
 
 * 1,000+ entries covering **September 1 – October 31, 2025**
 * Columns include: App name, category, time spent, day, weekend flag, productivity type, etc.
@@ -274,7 +269,7 @@ This pipeline:
 
 ---
 
-## 📈 Types of Analysis I Did
+##  Types of Analysis I Did
 
 1. **Descriptive:** How much I use each app, daily and weekly patterns
 2. **Diagnostic:** Why my usage spikes, what days and apps are the culprits
@@ -283,7 +278,7 @@ This pipeline:
 
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 
 I built a live dashboard showing:
 * Daily screen time trends
@@ -308,7 +303,7 @@ I built a live dashboard showing:
 
 * Limit total screen time to 3–4 hours per day
 * Block apps during study hours (9 AM–5 PM)
-* Make phone-free zones at home
+* Make phone-free zones at home (really it helps alot) 
 * Swap distraction apps for productivity alternatives
 * Watch Mondays and weekends carefully
 * Try the “5-minute rule” before opening apps
