@@ -287,7 +287,7 @@ I built a live dashboard showing:
 * Weekend vs weekday patterns
 * The effect of my scrolling intervention
 
-[View My Dashboard](https://app.powerbi.com/groups/me/reports/b4746340-7cc8-43a9-821f-4e747679f7e3)
+[View My Dashboard](https://www.linkedin.com/in/abdalla-nezar-elshiekh/overlay/Project/1414659853/treasury/?profileId=ACoAAD4mNXYBjZYeJKt9vfte-amwCHgvPANOTOc)
 
 ---
 
