@@ -1,9 +1,12 @@
 # Doom Scrolling: My Digital Wellbeing Analysis
-![doomscrolling](https://github.com/user-attachments/assets/c91ccce3-7b5a-405d-9fad-ed89d8465c59)
-
-## Screen Time Data Science Project (@_@)
-
+ Screen Time Data Science Project (@_@)
+ 
 **Looking at My Own Screen Time: September vs October 2025**
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+![doomscrolling](https://github.com/user-attachments/assets/c91ccce3-7b5a-405d-9fad-ed89d8465c59)
 
 ---
 
