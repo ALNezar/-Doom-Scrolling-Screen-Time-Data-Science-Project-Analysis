@@ -12,7 +12,9 @@
 
 ## Why This Project (⊙_⊙)
 
-I wanted to see how I actually spend time on my phone. Like many students and young adults, I doomscroll, watch, and tap just enough to make me a high-functioning zombie. The problem? I had no clue how much time was actually slipping away.
+I wanted to see how I actually spend time on my phone. Like many students and young adults, I doomscroll, watch, and tap just enough to make me a high-functioning zombie. 
+
+I had no clue how much time was actually slipping away.
 
 This project looks at my personal Samsung screen time over two months to figure out:
 * Which apps I use the most
